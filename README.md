@@ -1,9 +1,9 @@
 # Data-Structures
 
 ## Table of Contents
-* General Info #[general info]
-* Technologies Used[#technologies used]
-* Setup[#setup]
+* [General Info] (#general info)
+* [Technologies Used](#technologies used)
+* [Setup](#setup)
 ## General Info
 This repository is a compilation of algorithms designed in my 
 Introduction to Data Structures course. I will continue updating this 
